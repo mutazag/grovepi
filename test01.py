@@ -20,7 +20,6 @@ time.sleep(1)
 grovepi.temp(7)
 grovepi.dht(7,0)
 
-
 # module_type:
 #             DHT11 0
 #             DHT22 1
