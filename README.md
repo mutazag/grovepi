@@ -9,3 +9,11 @@ GrovePi on Raspberry Pi
 * [Raspberry Pi VNC](https://softsolder.com/2016/12/23/raspberry-pi-forcing-vnc-display-resolution/#:~:text=You%20can%20use%20VNC%20with%20a%20headless%20Raspberry,resolution%2C%20edit%20%2Fboot%2Fconfig.txt%20and%20set%20the%20framebuffer%20size%3A)
 * [GrovePi Python Documentation](https://www.dexterindustries.com/GrovePi/programming/python-library-documentation/)
 * [Get Started with GrovePi](https://www.dexterindustries.com/GrovePi/get-started-with-the-grovepi/)
+
+
+# GrovePi Ports
+![GrovePi_Ports](https://www.dexterindustries.com/wp-content/uploads/2014/07/desc1.jpg)
+
+# Raspberry Pi GPIO
+
+![RPI_GPIO](https://miro.medium.com/max/2064/0*VsaGvGskvJa20hZa.png)
